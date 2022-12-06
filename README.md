@@ -1,2 +1,2 @@
-# upload-sample-
+# upload-sample
 CRUD student info system
